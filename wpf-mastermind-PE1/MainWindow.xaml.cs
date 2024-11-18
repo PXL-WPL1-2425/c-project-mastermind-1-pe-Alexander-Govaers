@@ -57,7 +57,7 @@ namespace wpf_mastermind_PE1
         }
 
 
-
+        // START COUNTDOWN
         private void Window_Loaded(object sender, RoutedEventArgs e)
         {
 
@@ -194,6 +194,8 @@ namespace wpf_mastermind_PE1
 
             }
         }
+        // ATTEMPTS IN FOR LOOP
+        // STOP COUNTDOWN
         private void checkButton_Click(object sender, RoutedEventArgs e)
         {
 
