@@ -211,8 +211,10 @@ namespace wpf_mastermind_PE1
                 this.Title = $"Mastermind: {i} pogingen ondernomen";
             }
 
-            
-            
+           timer.Stop();
+
+
+
 
 
 
